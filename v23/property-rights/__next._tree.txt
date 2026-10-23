@@ -1,0 +1,4 @@
+:HL["/cooec-dashboard/v23/_next/static/chunks/3pz6c3n1tt1w7.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"property-rights","h":96,"c":"$Q2"}]]
+0:{"b":"eaf26cc27e6e6356092613fcc202b3fe5f22ff83","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
