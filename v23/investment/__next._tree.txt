@@ -1,4 +1,4 @@
-:HL["/cooec-dashboard/v23/_next/static/chunks/3bf6avmd1o24-.css","style"]
+:HL["/cooec-dashboard/v23/_next/static/chunks/1m21seh3irec2.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"investment","h":96,"c":"$Q2"}]]
-0:{"b":"fd0571f0c90ae3374726a3d81b8496b02a6092f7","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"60f1dc25a7078ef13cb55dec43c6e3b527d91249","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
