@@ -1,4 +1,4 @@
-:HL["/cooec-dashboard/v23/_next/static/chunks/1m21seh3irec2.css","style"]
+:HL["/cooec-dashboard/v23/_next/static/chunks/0wajoss5zcuxh.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"engineering-projects","h":96,"c":"$Q2"}]]
-0:{"b":"60f1dc25a7078ef13cb55dec43c6e3b527d91249","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"0fd0a705700fbd1182d856812996f874a97a5853","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
