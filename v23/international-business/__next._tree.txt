@@ -1,4 +1,4 @@
-:HL["/cooec-dashboard/v23/_next/static/chunks/0wajoss5zcuxh.css","style"]
+:HL["/cooec-dashboard/v23/_next/static/chunks/3r2npdmvvrb3p.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"international-business","h":96,"c":"$Q2"}]]
-0:{"b":"0fd0a705700fbd1182d856812996f874a97a5853","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"65e4b58f3a604e16abd621cca7f6c446afb3b3ae","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
