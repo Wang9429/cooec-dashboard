@@ -1,10 +1,10 @@
 {
   "product": "海油工程穿透式监管大屏",
   "version": "2.3.0",
-  "commit": "65e4b58f3a604e16abd621cca7f6c446afb3b3ae",
-  "commitShort": "65e4b58",
+  "commit": "87266ac99ababe37b85d18cbd830fe8f7620a1ff",
+  "commitShort": "87266ac",
   "basePath": "/cooec-dashboard/v23",
   "dataBatch": "SYN-2026H1-01",
-  "builtAt": "2026-11-06T07:20:31.641Z",
-  "builtAtShanghai": "2026-11-06 15:20:31 (UTC+8)"
+  "builtAt": "2026-11-09T02:02:26.971Z",
+  "builtAtShanghai": "2026-11-09 10:02:26 (UTC+8)"
 }
