@@ -1,4 +1,4 @@
-:HL["/cooec-dashboard/v23/_next/static/chunks/063x477380qnn.css","style"]
+:HL["/cooec-dashboard/v23/_next/static/chunks/1_2mcqi4awbyh.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"6bc80cdc6c67f6a0cb3ba81bee94db878c933ea1","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"935043cb2e7c74dfe76312ac130c916a3a89ef03","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
